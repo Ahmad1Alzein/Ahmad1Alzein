@@ -6,8 +6,8 @@ Welcome to my GitHub! I'm a passionate web and app developer who recently gradua
 
 ## 🚀 Skills
 
-- **Languages:** HTML, CSS, JavaScript, Python
-- **Front-End:** React
+- **Languages:** C++, C#, C, Java, Python
+- **Front-End:** HTML, CSS, JavaScript, React, WPF (app), XAML/XML
 - **Back-End:** php
 - **Databases:** SQl
 - **Version Control:** Git, GitHub
