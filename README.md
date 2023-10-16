@@ -17,9 +17,9 @@ Welcome to my GitHub! I'm a passionate web and app developer who recently gradua
 
 Here are a few of my notable projects:
 
-### [Project 1: E-Commerce Website](https://github.com/yourusername/e-commerce-website)
+### [Project 1: E-Commerce Website](https://github.com/Ahmad1Alzein/WeatherApp)
 
-An e-commerce platform built using React, Redux, and Firebase, allowing users to browse products, add them to their cart, and complete orders securely.
+Experience real-time weather updates for your current location and any place you search, with automatic location detection based on your IP address. Simply connect to a weather API, and your WPF Windows app will display all the weather data you need.
 
 ## 📫 Contact
 Let's connect and collaborate on exciting web and app development projects!
