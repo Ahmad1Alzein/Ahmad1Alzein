@@ -17,7 +17,7 @@ Welcome to my GitHub! I'm a passionate web and app developer who recently gradua
 
 Here are a few of my notable projects:
 
-### [Project 1: E-Commerce Website](https://github.com/Ahmad1Alzein/WeatherApp)
+### [Project 1: Weather-App](https://github.com/Ahmad1Alzein/WeatherApp)
 
 Experience real-time weather updates for your current location and any place you search, with automatic location detection based on your IP address. Simply connect to a weather API, and your WPF Windows app will display all the weather data you need.
 
